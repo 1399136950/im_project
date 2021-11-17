@@ -1,0 +1,4 @@
+.allure/
+report/
+log/
+do_report/runtime/*
